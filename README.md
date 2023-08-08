@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![jgirard-'s 42 stats](https://badge42.vercel.app/api/v2/cll2e9477002108ihsot94y85/stats?cursusId=21&coalitionId=105)](https://github.com/JaeSeoKim/badge42)
 <!--
 **Zeedwin/Zeedwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
